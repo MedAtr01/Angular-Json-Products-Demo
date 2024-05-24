@@ -1,0 +1,33 @@
+.colors {
+  margin: 5px;
+  cursor: pointer !important;
+  font-size: 1.5rem;
+  padding-bottom: 0;
+
+}
+.active{
+  border: 2px solid mediumblue !important;
+  border-radius: 20px;
+}
+
+.bi-circle-fill{
+  box-shadow: inset rgba(0, 0, 0, 0.35) 3px -11px 20px 0px;
+  border-radius: 80%;
+  background: transparent;
+
+}
+.titanium i{
+  color: #878684;
+}
+.blacktitanium i {
+  color: #494948;
+}
+.violet i{
+  color: rgba(76, 19, 94, 0.66);
+}
+.sierablue i{
+  color: rgba(121, 180, 211, 0.79);
+}
+.alpinegreen i {
+  color: #505F4E;
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "iPhone 15",
+    "url": "https://www.apple.com/us/shop/buy-iphone/iphone-15",
+    "variants": [
+      {
+
+        "color": "titanium",
+        "images":
+          "assets/images/15-titanium.webp",
+        "memory": [{ "space": "128", "price": 10500 }, { "space": "256", "price": 12500}]
+      },
+      {
+        "color": "black titanium",
+        "images":
+          "assets/images/15pro.jpeg",
+        "memory": [{ "space": "512", "price": 21000 }]
+      }
+
+    ],
+    "updated": "2017-09-13T06:55:52.309Z"
+  },
+  {
+    "name": "iPhone 14",
+    "url": "https://www.apple.com/us/shop/buy-iphone/iphone-14",
+    "variants": [
+      {
+        "color": "white",
+        "images":
+        "assets/images/iph14.jpeg",
+        "memory": [{ "space": "128", "price": 8899 }, { "space": "256", "price": 10249 }]
+      },
+      {
+        "color": "space grey",
+        "images":
+        "assets/images/14-sg.jpeg",
+        "memory": [{ "space": "128", "price": 8899 }]
+      },
+      {
+        "color": "violet",
+        "images":
+        "assets/images/14-violet.jpeg",
+        "memory": [{ "space": "512", "price": 20000 }]
+      }
+
+    ],
+    "updated": "2017-09-13T06:55:52.309Z"
+  },  {
+  "name": "iPhone 13",
+  "url": "https://www.apple.com/us/shop/buy-iphone/iphone-13",
+  "variants": [
+    {
+      "color": "siera blue",
+      "images":
+      "assets/images/13-blue.jpeg",
+      "memory": [{ "space": "256", "price": 8899 }, { "space": "512", "price": 10249 }]
+    },
+    {
+      "color": "alpine green",
+      "images":
+      "assets/images/13-green.jpeg",
+      "memory": [{ "space": "256", "price": 8899 }]
+    }
+
+  ],
+  "updated": "2017-09-13T06:55:52.309Z"
+}
+]
